@@ -1,1 +1,1 @@
-# .github
+# Sole AI
